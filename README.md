@@ -27,10 +27,18 @@ git clone git@github.com:ctrldemi/dotfiles.git
 cd dotfiles
 ```
 
-then use GNU stow to create symlinks
+Then use GNU stow to create symlinks
 
 ```
 stow .
 ```
+
+For directories outside $HOME stow singularly specifying the target
+We will use the /etc/ directory as an example
+
+```
+stow etc -t /etc/
+```
+
 Please refer to this video for further details:
 https://www.youtube.com/watch?v=y6XCebnB9gs
