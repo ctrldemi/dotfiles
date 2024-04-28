@@ -18,6 +18,20 @@ sudo pacman -S git
 sudo pacman -S stow
 ```
 
+## Dependencies
+
+```
+hyprland
+mako
+waybar
+neofetch
+waybar
+wofi
+wleave
+ly
+kitty
+```
+
 ## Installation
 
 Ckeck out the dotfiles repo in your $HOME directory using git
