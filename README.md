@@ -32,3 +32,5 @@ then use GNU stow to create symlinks
 ```
 stow .
 ```
+Please refer to this video for further details:
+https://www.youtube.com/watch?v=y6XCebnB9gs
