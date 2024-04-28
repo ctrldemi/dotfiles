@@ -1,0 +1,12 @@
+* {
+    font-family: "D2CodingLigature Nerd Font";
+    font-size: 15px;
+}
+
+window#waybar {
+    color: #96ff00;
+    background-color: rgba(27, 27, 27, 1);
+    border-radius: 0%;
+}
+
+
